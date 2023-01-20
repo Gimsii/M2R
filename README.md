@@ -1,5 +1,7 @@
 # M2R - James Stein Estimator
 
+M2R Group Project, Imperial College London
+
 # Abstract:
 
 This paper analyses what the James-Stein Estimator is, why we introduce the
@@ -15,3 +17,9 @@ Stein Estimator, comparison between the loss function over absolute error norm
 and Euclidean norm is discussed as well. As for real-life implications, a football
 example which estimates the goal to shot ratios of football players is introduced
 to demonstrate the better performance of the James-Stein Estimator.
+
+# Authors:
+Joshua Rose, Jing Hui Tan, Jingyuan Wang, Govind Bhachu, Ervis Bucaj, Jayden Barker 
+
+# Supervisor:
+Professor Alastair Young
