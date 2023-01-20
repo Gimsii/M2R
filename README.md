@@ -5,7 +5,7 @@
 This paper analyses what the James-Stein Estimator is, why we introduce the
 James-Stein Estimator, and why it is a better method to estimate the true mean
 vector of a multivariate normal random variable under the assumption that it
-follows $N(θ, I_p)$ with dimension p ≥ 3 as compared to the naive estimator. To
+follows $N(θ, I_p)$ with dimension $p ≥ 3$ as compared to the naive estimator. To
 answer these questions, this paper analyses the performance of the James-Stein
 Estimator by considering its dominance over the na ̈ıve estimator and comparing
 it with na ̈ıve estimator through analysing the distribution of their loss functions.
