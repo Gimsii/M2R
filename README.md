@@ -1,6 +1,6 @@
 # M2R - James Stein Estimator
 
-M2R Group Project, Imperial College London
+M2R Group Project - Imperial College London
 
 # Abstract:
 
